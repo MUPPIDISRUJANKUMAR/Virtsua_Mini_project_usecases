@@ -1,0 +1,9 @@
+Security Alert Report
+=====================
+CRITICAL Server crashed
+CRITICAL Memory overflow
+
+=== SUMMARY ===
+ERROR: 2
+CRITICAL: 2
+FAILED LOGIN: 2
