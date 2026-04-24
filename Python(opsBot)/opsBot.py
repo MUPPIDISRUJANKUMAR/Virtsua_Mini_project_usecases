@@ -6,7 +6,7 @@ with open('server.log','r') as fs:
     lines= fs.readlines()
 
 # keywords to search for
-keywords=['ERROR','CRITICAL','FAILED LOGIN',]
+keywords=['ERROR','CRITICAL','FAILED LOGIN']
 
 # Fliter lines based on keywords
 filtered_lines=[]
